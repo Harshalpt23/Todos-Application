@@ -1,4 +1,6 @@
-# Todos-Application
+## Todos-Application
+
+# Project Description:
 A task management solution, designed to make life easier.
 
 # Features
@@ -9,3 +11,6 @@ interface.
 
 # Technologies used: 
 HTML, CSS, JS, Bootstrap
+
+# Live Demo;
+https://harshalpt23.github.io/Todos-Application/
