@@ -12,5 +12,5 @@ interface.
 ## Technologies used: 
 HTML, CSS, JS, Bootstrap
 
-## Live Demo;
+## Live Demo Link;
 https://harshalpt23.github.io/Todos-Application/
